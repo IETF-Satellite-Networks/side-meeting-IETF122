@@ -1,9 +1,10 @@
 # Large Scale Satellite IP Networks Side meeting in IETF 122
 
-## Time: Wednesday (March 19) , 90min, 09:30-11:00
+## Time: Wednesday (March 19) , 90mins
    - UTC 02:30 -04:00
    - CET (UTC+1) 03:30 - 05:00 - France/Germany/Prague
-   - CST (UTC+8) 10:30 - 12:00 – Beijing/Singapore
+   - Local(UTC+7)  09:30-11:00 - Bankok
+   - CST (UTC+8) 10:30 - 12:00 - Beijing/Singapore
    - EST (UTC-5) 21:30-23:00
    - PST (UTC-8) 18:30-20:00
 
@@ -27,7 +28,7 @@ Information also available on side meeting wiki: https://trello.com/b/R7yDMPyl
 2.	Use case and Problem Statement: Tianji Jiang (China Mobile) [10: 20/90] 
 3.	RFC 9717 on A Routing Architecture for Satellite Networks: Tony Li (Juniper) [15: 35/90]
 4.	Satellite Ground Routing Architecture Based on Access Satellite Prediction: Min Xiao (ZTE). [15: 50/90]
-5.	Measuring the Satellite Links of a LEO Network: Jianping Pan (University of Victoria). [15: 65/90]
+5.	Routing in space-air-ground-integrated networks: Jianping Pan (University of Victoria). [15: 65/90]
 6.	A Resilient Routing Algorithm for Handling K-Link/Node Failure in Inclined LEO Megaconstellations: Kanglian Zhao (Nanjing University). [15: 80/90]
 7.	Discussion and next steps [10 : 90/90]
 
